@@ -1,0 +1,101 @@
+Item_ID,Item_Name,Category,Current_Stock,Minimum_Required,Unit_Price_USD,Expiration_Date,LASA_Warning
+ITM-1001,Surgical Masks - Batch 654,Consumables,268,58,32.09,2028-02-07,False
+ITM-1002,Syringe 5mL - Batch 964,Consumables,193,24,16.42,2026-08-17,False
+ITM-1003,Syringe 10mL - Batch 711,Consumables,236,62,48.87,2026-10-22,False
+ITM-1004,IV Cannula 20G - Batch 899,Consumables,269,52,14.29,2026-07-03,False
+ITM-1005,Gauze Sponges 4x4 - Batch 583,Consumables,99,69,41.98,2026-04-23,False
+ITM-1006,Lidocaine 1% - Batch 136,Medication,369,100,39.02,2026-04-26,True
+ITM-1007,Lidocaine 2% - Batch 676,Medication,316,54,47.39,2027-02-15,True
+ITM-1008,Epinephrine 1:1000 - Batch 958,Medication,476,27,30.79,2027-08-09,True
+ITM-1009,Ephedrine 50mg - Batch 590,Medication,68,38,2.6,2027-11-26,True
+ITM-1010,Saline Solution 0.9% 500ml - Batch 320,Fluids,197,92,38.93,2026-07-06,False
+ITM-1011,Dextrose 5% 500ml - Batch 768,Fluids,169,84,22.74,2026-07-31,False
+ITM-1012,Suture Silk 3-0 - Batch 176,Surgical,335,89,17.1,2026-09-27,False
+ITM-1013,Scalpel Blades #10 - Batch 987,Surgical,111,87,11.39,2027-12-19,False
+ITM-1014,Alcohol Prep Pads - Batch 476,Consumables,180,82,1.84,2027-07-25,False
+ITM-1015,Bandages 2 inch - Batch 951,Consumables,484,73,29.62,2028-02-12,False
+ITM-1016,Dopamine 400mg - Batch 240,Medication,207,77,38.91,2026-09-30,True
+ITM-1017,Dobutamine 250mg - Batch 814,Medication,27,88,6.63,2027-04-22,True
+ITM-1018,Insulin Regular - Batch 613,Medication,13,94,42.99,2027-10-08,True
+ITM-1019,Insulin Glargine - Batch 551,Medication,490,88,44.84,2026-12-31,True
+ITM-1020,"Nitrile Gloves, Size M - Batch 959",Consumables,163,55,9.59,2027-09-06,False
+ITM-1021,Surgical Masks - Batch 752,Consumables,130,74,27.89,2027-02-28,False
+ITM-1022,Syringe 5mL - Batch 888,Consumables,356,37,44.86,2026-12-05,False
+ITM-1023,Syringe 10mL - Batch 554,Consumables,126,53,23.38,2026-09-25,False
+ITM-1024,IV Cannula 20G - Batch 386,Consumables,446,42,34.58,2026-11-27,False
+ITM-1025,Gauze Sponges 4x4 - Batch 552,Consumables,124,90,39.95,2026-11-18,False
+ITM-1026,Lidocaine 1% - Batch 274,Medication,306,28,14.18,2027-12-30,True
+ITM-1027,Lidocaine 2% - Batch 386,Medication,114,54,15.16,2026-11-03,True
+ITM-1028,Epinephrine 1:1000 - Batch 167,Medication,335,73,10.25,2027-12-04,True
+ITM-1029,Ephedrine 50mg - Batch 698,Medication,390,90,12.97,2027-01-08,True
+ITM-1030,Saline Solution 0.9% 500ml - Batch 218,Fluids,114,65,4.52,2028-02-12,False
+ITM-1031,Dextrose 5% 500ml - Batch 340,Fluids,204,89,26.23,2027-04-04,False
+ITM-1032,Suture Silk 3-0 - Batch 904,Surgical,33,33,22.35,2027-08-25,False
+ITM-1033,Scalpel Blades #10 - Batch 378,Surgical,70,65,10.51,2027-08-20,False
+ITM-1034,Alcohol Prep Pads - Batch 892,Consumables,326,36,47.41,2027-08-17,False
+ITM-1035,Bandages 2 inch - Batch 533,Consumables,397,89,45.95,2027-07-29,False
+ITM-1036,Dopamine 400mg - Batch 434,Medication,299,65,16.96,2026-06-24,True
+ITM-1037,Dobutamine 250mg - Batch 159,Medication,454,99,8.01,2027-05-14,True
+ITM-1038,Insulin Regular - Batch 719,Medication,265,72,3.21,2026-09-03,True
+ITM-1039,Insulin Glargine - Batch 878,Medication,293,55,35.27,2027-06-16,True
+ITM-1040,"Nitrile Gloves, Size M - Batch 572",Consumables,82,97,29.82,2026-06-18,False
+ITM-1041,Surgical Masks - Batch 246,Consumables,484,62,8.2,2027-09-20,False
+ITM-1042,Syringe 5mL - Batch 179,Consumables,427,31,38.56,2027-12-28,False
+ITM-1043,Syringe 10mL - Batch 163,Consumables,49,89,30.87,2026-05-31,False
+ITM-1044,IV Cannula 20G - Batch 447,Consumables,187,76,26.88,2026-10-07,False
+ITM-1045,Gauze Sponges 4x4 - Batch 617,Consumables,142,26,46.56,2027-08-15,False
+ITM-1046,Lidocaine 1% - Batch 738,Medication,358,82,21.85,2028-01-02,True
+ITM-1047,Lidocaine 2% - Batch 345,Medication,421,31,5.31,2026-12-15,True
+ITM-1048,Epinephrine 1:1000 - Batch 943,Medication,491,86,11.0,2028-02-12,True
+ITM-1049,Ephedrine 50mg - Batch 763,Medication,434,98,35.43,2027-08-17,True
+ITM-1050,Saline Solution 0.9% 500ml - Batch 979,Fluids,394,72,43.53,2027-09-16,False
+ITM-1051,Dextrose 5% 500ml - Batch 590,Fluids,351,61,29.06,2027-05-14,False
+ITM-1052,Suture Silk 3-0 - Batch 927,Surgical,137,63,4.46,2027-01-30,False
+ITM-1053,Scalpel Blades #10 - Batch 960,Surgical,95,75,41.71,2027-07-23,False
+ITM-1054,Alcohol Prep Pads - Batch 791,Consumables,149,77,42.05,2027-10-25,False
+ITM-1055,Bandages 2 inch - Batch 622,Consumables,489,94,36.26,2027-10-04,False
+ITM-1056,Dopamine 400mg - Batch 247,Medication,477,66,2.92,2026-07-25,True
+ITM-1057,Dobutamine 250mg - Batch 353,Medication,70,75,11.32,2027-04-27,True
+ITM-1058,Insulin Regular - Batch 144,Medication,297,48,9.65,2027-07-17,True
+ITM-1059,Insulin Glargine - Batch 553,Medication,243,77,11.02,2028-01-17,True
+ITM-1060,"Nitrile Gloves, Size M - Batch 202",Consumables,25,28,25.14,2027-07-29,False
+ITM-1061,Surgical Masks - Batch 697,Consumables,411,24,30.82,2026-10-11,False
+ITM-1062,Syringe 5mL - Batch 150,Consumables,159,42,49.66,2027-01-07,False
+ITM-1063,Syringe 10mL - Batch 775,Consumables,74,66,2.56,2027-03-19,False
+ITM-1064,IV Cannula 20G - Batch 238,Consumables,298,20,3.5,2027-08-30,False
+ITM-1065,Gauze Sponges 4x4 - Batch 668,Consumables,39,58,38.05,2026-11-01,False
+ITM-1066,Lidocaine 1% - Batch 722,Medication,293,81,49.5,2027-08-03,True
+ITM-1067,Lidocaine 2% - Batch 158,Medication,133,40,40.31,2027-08-22,True
+ITM-1068,Epinephrine 1:1000 - Batch 572,Medication,185,60,27.96,2027-11-08,True
+ITM-1069,Ephedrine 50mg - Batch 360,Medication,169,99,19.21,2027-10-17,True
+ITM-1070,Saline Solution 0.9% 500ml - Batch 727,Fluids,308,39,31.44,2026-12-03,False
+ITM-1071,Dextrose 5% 500ml - Batch 191,Fluids,35,20,33.44,2027-11-25,False
+ITM-1072,Suture Silk 3-0 - Batch 309,Surgical,119,32,36.46,2028-01-14,False
+ITM-1073,Scalpel Blades #10 - Batch 974,Surgical,27,100,40.9,2027-07-05,False
+ITM-1074,Alcohol Prep Pads - Batch 534,Consumables,403,47,28.44,2027-11-20,False
+ITM-1075,Bandages 2 inch - Batch 921,Consumables,210,36,36.6,2026-06-23,False
+ITM-1076,Dopamine 400mg - Batch 924,Medication,399,96,16.03,2026-05-28,True
+ITM-1077,Dobutamine 250mg - Batch 269,Medication,168,91,1.83,2026-10-03,True
+ITM-1078,Insulin Regular - Batch 223,Medication,438,86,26.05,2028-02-20,True
+ITM-1079,Insulin Glargine - Batch 252,Medication,46,48,39.36,2026-07-27,True
+ITM-1080,"Nitrile Gloves, Size M - Batch 538",Consumables,64,34,17.95,2027-11-04,False
+ITM-1081,Surgical Masks - Batch 176,Consumables,460,74,24.0,2027-07-28,False
+ITM-1082,Syringe 5mL - Batch 413,Consumables,377,35,21.38,2026-06-26,False
+ITM-1083,Syringe 10mL - Batch 238,Consumables,351,83,23.54,2027-03-17,False
+ITM-1084,IV Cannula 20G - Batch 308,Consumables,400,57,40.09,2026-08-02,False
+ITM-1085,Gauze Sponges 4x4 - Batch 277,Consumables,263,51,15.7,2027-10-27,False
+ITM-1086,Lidocaine 1% - Batch 832,Medication,326,73,48.68,2026-11-06,True
+ITM-1087,Lidocaine 2% - Batch 561,Medication,293,67,39.88,2028-02-05,True
+ITM-1088,Epinephrine 1:1000 - Batch 514,Medication,433,47,14.32,2026-08-03,True
+ITM-1089,Ephedrine 50mg - Batch 633,Medication,276,87,15.79,2026-10-18,True
+ITM-1090,Saline Solution 0.9% 500ml - Batch 380,Fluids,172,30,44.01,2026-04-17,False
+ITM-1091,Dextrose 5% 500ml - Batch 674,Fluids,423,37,11.01,2028-02-18,False
+ITM-1092,Suture Silk 3-0 - Batch 611,Surgical,117,27,25.68,2028-01-05,False
+ITM-1093,Scalpel Blades #10 - Batch 480,Surgical,138,58,3.86,2028-01-04,False
+ITM-1094,Alcohol Prep Pads - Batch 404,Consumables,443,91,12.7,2027-10-14,False
+ITM-1095,Bandages 2 inch - Batch 512,Consumables,378,37,22.71,2027-06-25,False
+ITM-1096,Dopamine 400mg - Batch 275,Medication,121,32,47.58,2027-04-15,True
+ITM-1097,Dobutamine 250mg - Batch 235,Medication,252,65,13.21,2027-11-26,True
+ITM-1098,Insulin Regular - Batch 455,Medication,55,50,29.04,2027-05-31,True
+ITM-1099,Insulin Glargine - Batch 592,Medication,124,62,22.41,2027-08-19,True
+ITM-1100,"Nitrile Gloves, Size M - Batch 877",Consumables,332,74,13.7,2028-01-14,False
